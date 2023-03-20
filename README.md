@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
     <h1 align="center"><👋 Hello, Coding World! 🌎/><br>I'm Piero Mastrogiacomo</h1>
-    <h3 align="center"><i>Father, Husband and Physician turned Full-Stack Developer</i></h3>
+    <h3 align="center"><i>Father, Husband and Physician turned Full-Stack Software Developer</i></h3>
 </div>
 
 <br>
