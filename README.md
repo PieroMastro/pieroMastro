@@ -1,12 +1,10 @@
 <div id="header" align="center">
     <h1 align="center">Hi there 👋, I'm Piero Mastrogiacomo</h1>
-    <h3 align="center">Full-Stack Developer and Physician</h3>
+    <h3 align="center">Father, Husband, Full-Stack Developer and Physician</h3>
 </div>
 
- 
 
 <!--
-**PieroMastro/pieroMastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
