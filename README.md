@@ -22,7 +22,7 @@ My naturally curious and restless disposition is complemented by my ability to w
 
 <br>
 
-- 🔭 I’m currently working on **Polish my skills and knowledge while developing my personal portfolio**
+- 🔭 I'm currently focusing on **developing my personal portfolio and honing my skills and knowledge in the process.**
 
 - 💬 Ask me about **Bootstrap, JavaScript, React.JS, Python, HTML & CSS**
 
