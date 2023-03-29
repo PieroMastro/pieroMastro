@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>At a very young age, I developed a deep interest in technology, cultivating a keen technological mindset and motivating me to continue learning about the subject. 
+<p>My passion for technology sparked at a young age and has led me to pursue (after many, many years...) a Full-Stack Development Certification, where I have acquired proficiency in various programming languages such as JavaScript, SQL, WebPack, API Rest, React, Python, Flask, Flux, HTML, CSS, and Git.
 
-This passion led me to pursue (after many years) a Full-Stack Development Certification where I gained proficiency in various programming languages, and frameworks/architectures including <i>JavaScript, Python, React, Flux, Flask, SQL, API Rest, HTML, CSS and Git.</i>
-
-My naturally curious and restless disposition is complemented by my ability to work well in teams, acquire new skills autonomously, and approach problem-solving respectfully and patiently. I am excited to undertake new programming projects that present opportunities for professional growth and development.</p>
+My innate curiosity and restlessness are balanced by my ability to collaborate effectively with others, learn new skills independently, and approach problem-solving with respect and patience. I am eager to take on new programming challenges that offer opportunities for professional growth and advancement.</p>
 
 <br>
 
