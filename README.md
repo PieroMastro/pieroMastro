@@ -25,12 +25,14 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 - 📫 How to reach me **pier.andres@gmail.com**
 
 - 🤓 Fun fact: **Love playing Graphic Adventure games.**
+
 <br>
 
 **“It’s never too late to give up what you are doing and start doing what you realize you love.”** Hans Rosling
 
 <br>
-<h3 align="left">📲 Connect with me:</h3>
+
+<h3 align="left">🔌 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pieromastro" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="pieromastro" height="45" width="45" /></a>
 </p>
