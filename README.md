@@ -3,7 +3,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
 -->
 
 <div id="header" align="center">
@@ -25,7 +24,10 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 
 - 📫 How to reach me **pier.andres@gmail.com**
 
-- ⚡ Fun fact: **“It’s never too late to give up what you are doing and start doing what you realize you love.” Hans Rosling**
+- 🤓 Fun fact: **Love playing Graphic Adventure games.**
+<br>
+
+**“It’s never too late to give up what you are doing and start doing what you realize you love.”** Hans Rosling
 
 <br>
 <h3 align="left">📲 Connect with me:</h3>
