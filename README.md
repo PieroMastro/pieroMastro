@@ -28,7 +28,7 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 
 <br>
 
-**“It’s never too late to give up what you are doing and start doing what you realize you love.”** -Hans Rosling-.
+**“It’s never too late to give up what you are doing and start doing what you realize you love.”** - Hans Rosling -
 
 <br>
 
