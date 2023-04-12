@@ -2,7 +2,7 @@
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with
 -->
 
 <div id="header" align="center">
