@@ -10,13 +10,13 @@ Here are some ideas to get you started:
     <h3 align="center"><i>Father of two, Husband and Physician turned Full-Stack Software Developer</i></h3>
 </div>
 
-<br>
+</br>
 
 <p>My passion for technology sparked at a young age and has led me to pursue (after many, many years...) a Full-Stack Development Certification, where I have acquired proficiency in various programming languages such as JavaScript, SQL, WebPack, API Rest, React, Python, Flask, Flux, HTML, CSS, and Git.
 
 My innate curiosity and restlessness are balanced by my ability to collaborate effectively with others, learn new skills independently, and approach problem-solving with respect and patience. I am eager to take on new programming challenges that offer opportunities for professional growth and advancement.</p>
 
-<br>
+</br>
 
 - 🔭 I’m currently working on **developing my personal portfolio and honing my skills and knowledge in the process.**
 
@@ -30,7 +30,7 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 
 **“It’s never too late to give up what you are doing and start doing what you realize you love.”** - Hans Rosling -
 
-<br>
+</br>
 
 <h3 align="left">🔌 Connect with me:</h3>
 <p align="left">
@@ -54,4 +54,5 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pieromastro&show_icons=true&locale=en&layout=compact" alt="pieromastro" /></p>
 
-M&M
+</br>
+<p align="right"><i>Massi & Mica</i> 💚💜</p>
