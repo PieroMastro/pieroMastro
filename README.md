@@ -20,7 +20,9 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 
 - 🔭 I’m currently working on **developing my personal portfolio and honing my skills and knowledge in the process.**
 
-- 💬 Ask me about **Bootstrap, JavaScript, React.JS, Python, HTML & CSS**
+- 🌱 I’m currently learning **TypeScript.**
+
+- 💬 Ask me about **Bootstrap, JavaScript, React.JS, Python, HTML & CSS.**
 
 - 📫 How to reach me **pier.andres@gmail.com**
 
