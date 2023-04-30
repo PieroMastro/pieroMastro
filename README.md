@@ -57,4 +57,4 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pieromastro&show_icons=true&locale=en&layout=compact" alt="pieromastro" /></p>
 
 </br>
-<p align="right"><i>M & M</i> 💚💜</p>
+<p align="right">💚<i> M & M </i>💜</p>
