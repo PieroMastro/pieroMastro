@@ -49,7 +49,8 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="45"/>
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" alt="flask" width="70"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="90"/>
-    <img src="[https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png](https://assets.stickpng.com/thumbs/62cc1b51150d5de9a3dad5f8.png)" alt="postman" width="45"/> </p>
+    <img src="https://logowik.com/content/uploads/images/postman-api-platform6643.logowik.com.webp" alt="postman" width="45"/>
+</p>
 
 <h3 align="left">📊 Some Random Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pieromastro&show_icons=true&locale=en" alt="pieromastro" /></p>
