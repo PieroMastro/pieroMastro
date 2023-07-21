@@ -12,27 +12,23 @@ Here are some ideas to get you started:
 
 </br>
 
-<p>My passion for technology sparked at a young age and has led me to pursue (after many, many years...) a Full-Stack Development Certification, where I have acquired proficiency in various programming languages such as JavaScript, SQL, WebPack, API Rest, React, Python, Flask, Flux, HTML, CSS, and Git.
+<p>My passion for technology sparked at a young age and has led me to pursue (after many, many years!) a Full-Stack Development Certification, where I have acquired proficiency in various programming languages such as HTML, CSS, JavaScript, React, Python, SQL, API Rest, and Git.
 
-My innate curiosity and restlessness are balanced by my ability to collaborate effectively with others, learn new skills independently, and approach problem-solving with respect and patience. I am eager to take on new programming challenges that offer opportunities for professional growth and advancement.</p>
+My innate curiosity and restlessness are balanced by my ability to collaborate effectively with others, learn new skills independently, and approach problem-solving with respect and patience. I am eager to take on new programming challenges that offer professional growth and advancement opportunities.</p>
 
-</br>
 
-- 🔭 I’m currently working on **developing my personal portfolio and honing my skills and knowledge in the process.**
+### 🧠 Technical Skills:
+- Programming Languages: **JavaScript, Python, HTML, CSS.**
+- Frameworks and Libraries: **React, Flask.**
+- Databases: **SQL, SQAlchemy.**
+- Version Control: **Git, GitHub.**
+- Tools and Methodologies: **Agile, Scrum.**
 
-- 🌱 I’m currently learning **TypeScript.**
-
-- 💬 Ask me about **Bootstrap, JavaScript, React.JS, Python, HTML & CSS.**
-
-- 📫 How to reach me **pier.andres@gmail.com**
-
-- 🤓 Fun fact: **Love playing Graphic Adventure games.**
-
-<br>
-
-**“It’s never too late to give up what you are doing and start doing what you realize you love.”** - Hans Rosling -
-
-</br>
+### 🌟 Highlights:
+- 🔭 I am currently learning **TypeScript while developing my personal portfolio to enhance my knowledge in the field.**
+- 💬 Let's talk about **JavaScript, React.JS, Bootstrap, HTML & CSS.**
+- 📫 Feel free to contact me via email at **pier.andres@gmail.com**
+- 🤓 Fun fact: **I love playing Graphic-Adventure games.**
 
 <h3 align="left">🔌 Connect with me:</h3>
 <p align="left">
@@ -53,9 +49,11 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 </p>
 
 <h3 align="left">📊 Some Random Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pieromastro&show_icons=true&locale=en" alt="pieromastro" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pieromastro&show_icons=true&locale=en" alt="pieromastro" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pieromastro&show_icons=true&locale=en&layout=compact" alt="pieromastro" /></p>
 
 </br>
+<emp>“It’s never too late to give up what you are doing and start doing what you realize you love.”</emp> - Hans Rosling -
+
 <p align="right">💚<i> M & M </i>💜</p>
