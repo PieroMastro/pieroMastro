@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
     <h1 align="center"><👋 Hello, Coding World! 🌎/><br>I'm Piero Mastrogiacomo</h1>
-    <h3 align="center"><em>Father of two, Husband, Physician, and Full-Stack Software Developer turned Teacher</em></h3>
+    <h3 align="center"><em>I'm Piero Mastrogiacomo, Father of two, Husband, Physician, and Full-Stack Software Developer turned Teacher. I'm currently passionate about sharing my knowledge by teaching Python.</em></h3>
 </div>
 
 </br>
@@ -25,7 +25,7 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 - Tools and Methodologies: **Agile, Scrum.**
 
 ### 🌟 Highlights:
-- 🔭 I am currently teaching **Python while developing my personal portfolio to enhance my knowledge in the field.**
+- 🔭 I am currently teaching **Python at Algorithmics Programming, solidifying my knowledge and exploring different teaching methods.**
 - 💬 Let's talk about **Python, JavaScript, React.JS, HTML & CSS.**
 - 📫 Feel free to contact me via email at **pier.andres@gmail.com**
 - 🤓 Fun fact: **I love playing Graphic-Adventure games.**
