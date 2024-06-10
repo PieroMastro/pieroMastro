@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
     <h1 align="center"><👋 Hello, Coding World! 🌎/><br>I'm Piero Mastrogiacomo</h1>
-    <h3 align="center"><em>Father of two, Husband, and Physician turned Full-Stack Software Developer</em></h3>
+    <h3 align="center"><em>Father of two, Husband, Physician, and Full-Stack Software Developer turned Teacher</em></h3>
 </div>
 
 </br>
 
-<p>My passion for technology sparked at a young age and has led me to pursue (after many, many years!) a Full-Stack Development Certification, where I have acquired proficiency in various programming languages such as HTML, CSS, JavaScript, React, Python, SQL, API Rest, and Git.
+<p>My passion for technology sparked at a young age and has led me to pursue (after many years!) a Full-Stack Development Certification, where I have acquired proficiency in various programming languages and frameworks such as HTML, CSS, JavaScript, React, Python, SQL, API Rest, and Git.
 
-My innate curiosity and restlessness are balanced by my ability to collaborate effectively with others, learn new skills independently, and approach problem-solving with respect and patience. I am eager to take on new programming challenges that offer professional growth and advancement opportunities.</p>
+My innate curiosity and restlessness are balanced by my ability to collaborate effectively with others, learn new skills independently, and approach problem-solving with respect and patience. I am eager to tackle new programming challenges that offer professional growth and advancement opportunities.</p>
 
 
 ### 🧠 Technical Skills:
@@ -25,8 +25,8 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 - Tools and Methodologies: **Agile, Scrum.**
 
 ### 🌟 Highlights:
-- 🔭 I am currently learning **TypeScript while developing my personal portfolio to enhance my knowledge in the field.**
-- 💬 Let's talk about **JavaScript, React.JS, Bootstrap, HTML & CSS.**
+- 🔭 I am currently teaching **Python while developing my personal portfolio to enhance my knowledge in the field.**
+- 💬 Let's talk about **Python, JavaScript, React.JS, HTML & CSS.**
 - 📫 Feel free to contact me via email at **pier.andres@gmail.com**
 - 🤓 Fun fact: **I love playing Graphic-Adventure games.**
 
