@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
     <h1 align="center"><👋 Hello, Coding World! 🌎/><br>I'm Piero Mastrogiacomo</h1>
-    <h3 align="center"><em>I'm Piero Mastrogiacomo, Father of two, Husband, Physician, and Full-Stack Software Developer turned Teacher. I'm currently passionate about sharing my knowledge by teaching Python.</em></h3>
+    <h3 align="center"><em>Hi! I'm Piero Mastrogiacomo, a physician turned full-stack developer and passionate Python teacher. When I'm not teaching my kids the joys of science, I'm helping others unlock the power of Python programming.</em></h3>
 </div>
 
 </br>
