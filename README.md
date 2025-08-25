@@ -25,7 +25,7 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 - Tools and Methodologies: **Agile, Scrum.**
 
 ### 🌟 Highlights:
-- 🔭 I am currently teaching **Python at Algorithmics Programming, solidifying my knowledge and exploring different teaching methods.**
+- 🔭 I am currently teaching **Python at Algorithmics International Programming School, solidifying my knowledge and exploring different teaching methods.**
 - 💬 Let's talk about **Python, JavaScript, React.JS, HTML & CSS.**
 - 📫 Feel free to contact me via email at **pier.andres@gmail.com**
 - 🤓 Fun fact: **I love playing Graphic-Adventure games.**
