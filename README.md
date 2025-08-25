@@ -37,15 +37,15 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JS" width="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="45"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="50"/>
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="HTML" width="50"/>
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" width="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="typescript" width="50" height="45"/>
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" alt="flask" width="70"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="90"/>
-    <img src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" width="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JS" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="typescript" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" height="40"/>
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="HTML" height="40"/>
+    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" height="40"/>
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" alt="flask" height="40"/>
+    <img src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" height="40"/>
 </p>
 
 <h3 align="left">📊 Some Random Stats:</h3>
