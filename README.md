@@ -45,7 +45,7 @@ My innate curiosity and restlessness are balanced by my ability to collaborate e
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="CSS" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" height="40"/>
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" alt="flask" height="40"/>
-    <img src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" height="40"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" height="40"/>
 </p>
 
 <h3 align="left">📊 Some Random Stats:</h3>
